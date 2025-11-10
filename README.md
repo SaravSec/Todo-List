@@ -68,11 +68,10 @@ It features a sleek **Dark/Light mode** toggle for better accessibility and a **
 <img width="1918" height="1078" alt="todo5" src="https://github.com/user-attachments/assets/5d88fb69-0b5c-4aa3-bd45-b1b10e7c2586" />
 
 🙌 About
-
 Developed by Saravanan S
-
 📧 Email: sarancybersec@gmail.com
-
 🔗 GitHub: SaravSec
 
+Deploy-Link : https://todoapp-prod-react-vite.netlify.app/
+De
 
